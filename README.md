@@ -1,1 +1,1 @@
-# web-clock
+# simple-web-clock
